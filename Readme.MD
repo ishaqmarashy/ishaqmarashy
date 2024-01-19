@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, My name is Ishaq</h1>
 <h3 align="center">I am an Aspiring Software Dev, Data Engineer & Comp Sci student at Heriot-Watt.</h3>
 
-- 📫 How to reach me **ishaq.marashy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
+**ishaq.marashy@gmail.com**
+<h3 align="left">Connect with me on Linkedin:</h3>
+**https://www.linkedin.com/in/ishaq-marashy/**
 <p align="left">
 </p>
 
