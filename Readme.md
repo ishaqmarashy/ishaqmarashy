@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Ishaq</h1>
+<h1 align="center">Hi, My name is Ishaq</h1>
 <h3 align="center">I am an Aspiring Software Dev, Data Engineer & Comp Sci student at Heriot-Watt.</h3>
 
 <h3 align="left">How to reach me:</h3>
