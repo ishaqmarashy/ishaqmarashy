@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name is Ishaq</h1>
-<h3 align="center">
+<h3 align="left">
 I am a fourth-year Computer Science student at Heriot-Watt University, I'm passionate about software development, data, and practical applications. Certified by IBM, Google, and DeepLearning.AI, I specialize in full-stack development, machine learning, and cloud technologies.
 I am proficient in JavaScript, PHP, Python, Java, Django, and databases like MySQL, PostgreSQL, and MongoDB, I've crafted secure web applications on IBM's Cloudant. My GitHub showcases projects, including a social media app and sentiment analysis tool, highlighting my design and coding abilities.
 Looking forward, I'm focused on specializing in data engineering and deepening my machine learning skills. I'm eager to contribute to cutting-edge projects that bridge data and actionable insights. Open to collaboration with like-minded professionals, I aim to leverage technology for positive impact while pushing boundaries.
